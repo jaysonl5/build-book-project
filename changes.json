@@ -1,0 +1,42 @@
+{
+    "playlist_update": [
+        {
+          "id":"1",
+          "song_id" : "15"
+        }
+    ],
+    "playlist_new": [
+      {
+        "id" : "4",
+        "owner_id" : "6",
+        "songs" :  [
+          {
+            "id" : "37",
+            "artist": "Kendrick Lamar",
+            "title": "All The Stars"
+          },
+          {
+            "id" : "41",
+            "artist": "Thrice",
+            "title": "Robot Soft Exorcism"
+          },
+          {
+            "id" : "42",
+            "artist": "Manchester Orchestra",
+            "title": "The Silence"
+          },
+          {
+            "id" : "43",
+            "artist": "The Contortionist",
+            "title": "The Parable"
+          }
+        ]
+      }
+    ],
+    "playlist_delete": [
+      {
+        "id" : "2"
+      }
+    ]
+
+}

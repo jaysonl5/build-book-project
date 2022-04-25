@@ -1,0 +1,15 @@
+{
+  "name": "build-book-project",
+  "version": "1.0.0",
+  "description": "Take home project for BuildBook",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayson Lewis",
+  "license": "ISC",
+  "bin": {
+    "spotify-updater": "./bin/index.js"
+  },
+  "dependencies": {}
+}
