@@ -4,7 +4,8 @@ This application requires Node to install and run. You can download and install 
 **Run Application** \
 After downloading the repository open a terminal:
 - cd into the build-book-project folder.
-- Run: `npm install -g .`
+- Run: `npm install -g .`   
+*(you may have to run with sudo if you get a permissions error)* 
 - After the install completes you can run the application via the terminal by using the following commond:
 `spotify-updater < spotify.json > < changes.json > < output.json >`
 
